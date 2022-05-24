@@ -9,6 +9,7 @@ Shadow-Android is a website that focuses on bringing Shadow-Desktop to Shadow-Mo
 💖 Made possible thanks to these projects 💖
 
 ```
+https://www.silex.me/
 https://www.httrack.com/
 https://archive.org/
 https://www.gitkraken.com/
