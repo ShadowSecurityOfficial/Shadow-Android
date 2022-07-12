@@ -12,7 +12,7 @@ Shadow-Android is a website that focuses on bringing Shadow-Desktop to Shadow-Mo
 https://store.google.com/category/phones?hl=en-US (Google Pixel)
 https://calyxos.org/
 https://www.silex.me/
-https://www.httrack.com/
+https://pages.cloudflare.com/
 https://archive.org/
 https://www.gitkraken.com/
 ```
