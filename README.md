@@ -15,6 +15,7 @@ https://www.silex.me/
 https://pages.cloudflare.com/
 https://archive.org/
 https://www.gitkraken.com/
+https://code.visualstudio.com/
 ```
 # Requesting a feature
 
