@@ -10,7 +10,7 @@ Shadow-Android is a website that focuses on bringing Shadow-Desktop to Shadow-Mo
 
 ```
 https://store.google.com/category/phones?hl=en-US (Google Pixel)
-https://pwnieexpres.com/ (Or instead of following my guide just buy a specialized device)
+https://pwnieexpres.com/ && https://www.kali.org/docs/nethunter/ (Or instead of following my guide just buy a specialized device)
 https://calyxos.org/
 https://www.silex.me/
 https://pages.cloudflare.com/
