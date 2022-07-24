@@ -13,6 +13,9 @@ https://store.google.com/category/phones?hl=en-US (Google Pixel)
 https://pwnieexpres.com/ && https://www.kali.org/docs/nethunter/ && https://twrp.me/ && hhttps://github.com/topjohnwu/Magisk (If you prefer, Instead of following my guide just buy a specialized device.)
 https://tamerplatform.com/
 https://calyxos.org/
+https://novalauncher.com/
+https://auroraoss.com/
+https://f-droid.org/
 https://www.silex.me/
 https://pages.cloudflare.com/
 https://archive.org/
